@@ -1,4 +1,3 @@
-
 vizh,bob=input().strip().split(" ")
 bob=int(bob)
 z=0
